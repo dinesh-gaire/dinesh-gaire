@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-gaire&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-gaire" /> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **React, Next-js, React-Native, ML, DL, CV, NLP Etc.**
 
